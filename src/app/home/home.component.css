@@ -1,0 +1,22 @@
+
+.homeContainer {
+  display: inline-flex;
+}
+.container {
+  width: 33vw;
+  padding: 10px;
+}
+.leftSide {
+  left:0;
+  position: fixed;
+  padding-right: 10px;
+}
+.rightSide {
+  right:0;
+  position: fixed;
+  padding-left: 10px;
+}
+.center {
+  margin-left: 33vw;
+}
+
